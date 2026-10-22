@@ -1,0 +1,13 @@
+OPERATING INSTRUCTIONS - BOILERS B-301 AND B-302
+Document No: IKI-SOP-BLR-02
+Department: Operations
+
+Start-up: Verify that the fuel supply valve is closed, purge the furnace for at least 5 minutes, check the burner flame scanner and then ignite the burner. Monitor steam pressure; the pressure relief valve is set at 10.0 bar.
+
+Normal operation: Record steam pressure, feedwater flow and flue gas temperature every hour. Flue gas temperature above 250 C indicates tube fouling.
+
+Shutdown: Reduce load gradually, close the fuel valve and let the boiler cool before draining.
+
+Safety precautions: Never bypass the flame failure protection. Keep the area around the pressure relief valve clear. Boiler operation shall comply with IKI-REG-12. Boiler B-302 is the standby unit.
+
+Inspection: Annual internal inspection of Boiler B-301 and Boiler B-302 is carried out by the Inspection Department.

@@ -1,0 +1,10 @@
+requirement_id,title,requirement_text,check_type,applies_to,inspection_type,max_interval_days,evidence_keywords
+REQ-01,Pump vibration analysis,Vibration analysis of each pump shall be recorded at least every 90 days.,periodic_inspection,Pump,Vibration Analysis,90,
+REQ-02,Motor vibration analysis,Vibration analysis of each motor shall be recorded at least every 90 days.,periodic_inspection,Motor,Vibration Analysis,90,
+REQ-03,Motor insulation test,Winding insulation resistance of each motor shall be tested every 180 days.,periodic_inspection,Motor,Insulation Resistance Test,180,
+REQ-04,Boiler safety inspection,Each boiler shall have a documented safety inspection every 180 days.,periodic_inspection,Boiler,Boiler Safety Inspection,180,
+REQ-05,Relief valve test,Pressure relief valves on boilers and compressors shall be tested every 365 days.,periodic_inspection,Boiler;Compressor,Relief Valve Test,365,
+REQ-06,Compressor oil analysis,Compressor oil shall be analysed every 120 days.,periodic_inspection,Compressor,Oil Analysis,120,
+REQ-07,Failed inspection follow-up,A failed inspection shall be followed by a work order within 14 days.,follow_up,All,,14,
+REQ-08,Lockout procedure documented,A documented lockout/tagout procedure shall exist before motor inspection.,documented_procedure,All,,0,lock out;lockout;tagout;isolate
+REQ-09,Boiler water treatment documented,A boiler water treatment procedure shall be documented.,documented_procedure,All,,0,water treatment;blowdown;TDS

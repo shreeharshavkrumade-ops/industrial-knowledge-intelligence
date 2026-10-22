@@ -1,0 +1,18 @@
+SERVICE MANUAL - AIR COMPRESSOR C-202
+Document No: IKI-MAN-C202 Rev 2
+Department: Mechanical Maintenance
+
+1. Description
+Compressor C-202 is an oil-injected rotary screw air compressor driven by Motor M-402. Main components include the air-end rotor, oil cooler, oil filter, air filter, cooling fan and a pressure relief valve.
+
+2. Operating limits
+Discharge air temperature must stay below 100 C. A high discharge temperature alarm is raised at 105 C and the unit trips at 110 C.
+
+3. Causes of overheating
+Overheating of Compressor C-202 is commonly caused by a fouled oil cooler, a blocked air filter, low oil level, or a failed cooling fan. Operation in ambient temperature above 40 C also increases the risk of overheating.
+
+4. Routine maintenance
+Replace the oil filter every 2000 hours. Clean the oil cooler fins every 3 months. Replace the air filter when the differential pressure indicator is in the red zone. Test the pressure relief valve annually in accordance with IKI-PRS-004.
+
+5. Safety precautions
+Vent all stored air pressure before opening any line. Isolate and lock out Motor M-402 before servicing Compressor C-202. Allow the oil to cool before draining because hot oil can cause burns.

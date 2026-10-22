@@ -1,0 +1,19 @@
+query,relevant_documents
+What maintenance was performed on Pump P-101?,maintenance_log_pump_p101.txt;maintenance_records.csv
+What are the reported causes of overheating in Compressor C-202?,compressor_c202_service_manual.txt;incident_report_compressor_c202.txt
+Which safety precautions apply before motor inspection?,motor_inspection_safety_procedure.docx
+Which documents mention repeated bearing failures?,motor_m401_bearing_failure_history.txt;maintenance_log_pump_p101.txt
+What inspection findings are associated with Boiler B-301?,boiler_b301_inspection_report.pdf;inspection_records.csv
+How often should the pump bearings be lubricated?,pump_p101_operation_manual.txt
+What causes cavitation in the feedwater pump?,pump_p101_operation_manual.txt;maintenance_log_pump_p101.txt
+How do I start up the boiler burner?,plant_operating_instructions_boilers.txt
+minimum acceptable insulation resistance of motor winding,motor_inspection_safety_procedure.docx
+Why did the compressor trip on high temperature?,incident_report_compressor_c202.txt;compressor_c202_service_manual.txt
+tube fouling in the boiler,boiler_b301_inspection_report.pdf;plant_operating_instructions_boilers.txt
+vibration analysis of the cooling water pump,pump_p102_inspection_notes.txt
+coupling misalignment between motor and pump,motor_m401_bearing_failure_history.txt;maintenance_log_pump_p101.txt
+pressure relief valve test requirement,compressor_c202_service_manual.txt;plant_operating_instructions_boilers.txt;boiler_b301_inspection_report.pdf
+lockout tagout isolation before maintenance,motor_inspection_safety_procedure.docx;pump_p101_operation_manual.txt;compressor_c202_service_manual.txt
+machine stopped because it became too hot,incident_report_compressor_c202.txt;compressor_c202_service_manual.txt
+worn rotating support part replaced again and again,motor_m401_bearing_failure_history.txt;maintenance_log_pump_p101.txt
+who inspects the steam generators each year,plant_operating_instructions_boilers.txt;boiler_b301_inspection_report.pdf

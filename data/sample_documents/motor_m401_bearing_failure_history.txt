@@ -1,0 +1,10 @@
+BEARING FAILURE HISTORY - MOTOR M-401
+Department: Electrical Maintenance
+
+Motor M-401 drives Pump P-101. Records show repeated bearing failures on the motor non-drive-end bearing.
+- 2025-11-05: Non-drive-end bearing overheating and noise. The bearing was replaced and re-greased.
+- 2026-02-10: Repeated bearing failure with high vibration. The bearing was replaced. Rotor imbalance was suspected but not confirmed.
+- 2026-07-27: Third bearing failure in nine months. Shaft misalignment with the Pump P-101 coupling was found and the alignment was corrected.
+
+Observation: Repeated bearing failures appear to coincide with coupling misalignment between Motor M-401 and Pump P-101. This pattern is an observation and has not been proven as the root cause.
+Recommended: Install vibration monitoring and perform laser alignment after each bearing replacement.

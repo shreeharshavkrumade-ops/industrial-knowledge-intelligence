@@ -1,0 +1,18 @@
+EQUIPMENT MANUAL - FEEDWATER PUMP P-101
+Document No: IKI-MAN-P101 Rev 3
+Department: Mechanical Maintenance
+
+1. Description
+Pump P-101 is a horizontal centrifugal feedwater pump driven by Motor M-401 through a flexible coupling. The pump has a mechanical seal, two radial bearings, a closed impeller and a stainless steel shaft.
+
+2. Normal operating limits
+Bearing temperature must not exceed 85 C. Vibration at the drive-end bearing must remain below 4.5 mm/s RMS. Suction pressure below 1.2 bar indicates a risk of cavitation.
+
+3. Common faults
+Cavitation produces a gravel-like noise and unstable discharge pressure. It is usually caused by a blocked suction strainer or low suction level. Seal leakage is normally caused by worn seal faces or shaft misalignment. High bearing temperature is usually caused by lack of lubricant or degraded grease.
+
+4. Routine maintenance
+Lubricate the bearings every 2000 operating hours using grease type EP-2. Inspect the mechanical seal every 6 months. Check coupling alignment after every bearing replacement. Clean the suction strainer monthly.
+
+5. Safety precautions
+Isolate and lock out Motor M-401 before any work on Pump P-101. Depressurise the casing and allow it to cool below 40 C before opening. Wear gloves and eye protection. Work shall comply with IKI-SAF-007 (fictional lockout standard).

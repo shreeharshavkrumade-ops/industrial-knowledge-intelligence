@@ -1,0 +1,10 @@
+MAINTENANCE LOG - PUMP P-101
+Department: Mechanical Maintenance
+
+2026-01-20 WO-2026-0042: Routine lubrication of the drive-end and non-drive-end bearings of Pump P-101 completed. Grease EP-2 applied. No abnormalities.
+2026-03-14 WO-2026-0101: Drive-end bearing failure on Pump P-101. High vibration of 7.8 mm/s and bearing temperature of 96 C were recorded. The failed bearing was replaced and the coupling was realigned. Downtime 14 hours.
+2026-05-02 WO-2026-0156: Mechanical seal leakage observed at Pump P-101. The seal faces were replaced and the shaft sleeve was inspected. Downtime 6 hours.
+2026-06-23 WO-2026-0203: Second drive-end bearing failure within four months on Pump P-101. Misalignment between Pump P-101 and Motor M-401 was found and the coupling was realigned again. The bearing was replaced and lubricated. Downtime 12 hours.
+2026-08-19 WO-2026-0248: Suction strainer cleaned after cavitation noise was reported at Pump P-101. Discharge pressure returned to normal.
+
+Reviewed by: Mechanical Maintenance supervisor

@@ -1,0 +1,5 @@
+INSPECTION NOTES - COOLING WATER PUMP P-102
+Date: 2026-05-18
+Department: Inspection
+
+Vibration analysis of Pump P-102 showed vibration of 3.1 mm/s, which is within acceptable limits. Minor leakage was noted at the gasket of the discharge flange and the gasket was tightened. The impeller was inspected through the inspection port and no corrosion was found. The next vibration analysis is due in August 2026.

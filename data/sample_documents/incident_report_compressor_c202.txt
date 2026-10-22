@@ -1,0 +1,14 @@
+INCIDENT REPORT - COMPRESSOR C-202 HIGH TEMPERATURE TRIP
+Date of incident: 2026-07-08
+Department: Operations
+Reported by: Shift operator
+
+Summary: Compressor C-202 tripped on a high discharge temperature of 110 C during afternoon operation. Ambient temperature was 41 C.
+
+Findings: The oil cooler fins were heavily fouled with dust. The cooling fan was running at reduced speed and the oil level was slightly below the minimum mark.
+
+Corrective actions: The oil cooler was cleaned, the oil level was topped up and the cooling fan was inspected. Compressor C-202 was restarted after a successful test run.
+
+Root cause assessment: A fouled oil cooler is the most probable cause of the overheating. This is an assessment, not a confirmed root cause. A similar overheating event occurred on 2026-04-17.
+
+Safety: Operators must not open the compressor enclosure while the unit is hot.

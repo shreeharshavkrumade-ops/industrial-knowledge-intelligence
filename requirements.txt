@@ -1,0 +1,38 @@
+# Industrial Knowledge Intelligence — Python dependencies
+# ────────────────────────────────────────────────────────
+# Install:  pip install -r requirements.txt
+# Python:   3.10 or newer
+
+# ── Authentication (required) ──────────────────────────────────────────────
+argon2-cffi>=25.1        # Argon2id password hashing (OWASP recommended)
+email-validator>=2.3     # RFC-5322 email normalisation and validation
+
+# ── Core (required, CPU-only, no API keys needed) ──
+streamlit>=1.50          # st.navigation, st.pills, st.popover, st.chat_input
+pandas>=2.0
+numpy>=1.24
+scikit-learn>=1.3
+plotly>=5.18
+networkx>=3.0
+pyvis>=0.3.2             # interactive knowledge graph (Plotly/table fallback if missing)
+pymupdf>=1.24.3          # PDF text extraction (fitz)
+python-docx>=1.0         # DOCX extraction
+pytesseract>=0.3.10      # OCR wrapper; also needs Tesseract binary (see README)
+pillow>=10.0
+reportlab>=4.0           # PDF audit report (CSV export works without it)
+
+# ── AI Knowledge Assistant — Google Gemini (optional, needs free API key) ──
+google-genai>=0.8        # Official Google Gemini SDK
+python-dotenv>=1.0       # loads GEMINI_API_KEY from .env file at startup
+
+# ── Testing ──
+pytest>=7.4
+
+# ── OPTIONAL — neural semantic search ──────────────────────────────────────
+# Large first-time download (~90 MB), requires internet.
+# Auto-loaded at startup when installed. Falls back to TF-IDF/LSA if absent.
+sentence-transformers>=2.7
+
+# ── OPTIONAL — EasyOCR (scanned PDF support, no system binary needed) ──
+# Falls back to Tesseract if installed; used when Tesseract binary is absent.
+easyocr>=1.7

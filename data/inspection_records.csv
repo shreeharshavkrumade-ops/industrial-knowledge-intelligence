@@ -1,0 +1,13 @@
+inspection_id,date,equipment_id,inspection_type,department,finding,status,next_due_date
+INS-001,2026-05-18,P-102,Vibration Analysis,Inspection,Vibration 3.1 mm/s within limits; minor flange gasket leak tightened,Pass,2026-08-16
+INS-002,2026-07-10,P-101,Vibration Analysis,Mechanical Maintenance,Vibration 5.2 mm/s above 4.5 mm/s limit at drive end,Observation,2026-10-08
+INS-003,2026-09-05,M-401,Vibration Analysis,Electrical Maintenance,"Vibration 7.1 mm/s, bearing noise audible",Fail,2026-12-04
+INS-004,2026-03-20,M-401,Insulation Resistance Test,Electrical Maintenance,Insulation resistance 48 MOhm acceptable,Pass,2026-09-16
+INS-005,2026-06-15,M-402,Insulation Resistance Test,Electrical Maintenance,Insulation resistance 55 MOhm acceptable,Pass,2026-12-12
+INS-006,2026-08-12,B-301,Boiler Safety Inspection,Inspection,"Tube fouling, minor economiser corrosion, thermocouple drift of 6 C",Observation,2027-02-08
+INS-007,2025-12-01,B-302,Boiler Safety Inspection,Inspection,No defects found on standby boiler,Pass,2026-05-30
+INS-008,2026-01-15,B-301,Relief Valve Test,Inspection,Relief valve lifted within tolerance,Pass,2027-01-15
+INS-009,2025-08-20,C-202,Relief Valve Test,Mechanical Maintenance,Relief valve lifted within tolerance,Pass,2026-08-20
+INS-010,2026-07-09,C-202,Oil Analysis,Mechanical Maintenance,Oil contaminated with particles above limit,Fail,2026-11-06
+INS-011,2026-02-01,C-205,Oil Analysis,Mechanical Maintenance,Oil condition acceptable,Pass,2026-06-01
+INS-012,2026-06-02,P-101,Oil Analysis,Mechanical Maintenance,Bearing grease sample acceptable,Pass,2026-09-30
